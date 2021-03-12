@@ -42,7 +42,7 @@
 ●[Ambientライブラリ](https://ambidata.io/docs/esp8266/)をインストールしてください。
 
 
-●組立要領は[fabcroos](https://fabcross.jp/category/make/mobility/20210312_iot_device.html)記事を参考にしてください。
+●組立要領は[fabcross](https://fabcross.jp/category/make/mobility/20210312_iot_device.html)記事を参考にしてください。
 
 ## Authors
 [Ryota Kobayashi](https://protopedia.net/prototyper/ryotakobayashi)
