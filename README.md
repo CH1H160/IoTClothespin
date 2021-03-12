@@ -31,7 +31,7 @@
 
 ●[Ambient](https://ambidata.io/)のアカウント登録を完了させ、チャネルIDとライトキーを入手してください。
 
-<<<<<<< HEAD
+
 ![Ambient](https://user-images.githubusercontent.com/30834673/108611892-8098aa00-7426-11eb-847f-eb5601916f5b.JPG)
 
 ●[Ambientライブラリ](https://ambidata.io/docs/esp8266/)をインストールしてください。
@@ -41,8 +41,8 @@
 =======
 ●[Ambientライブラリ](https://ambidata.io/docs/esp8266/)をインストールしてください。
 
->>>>>>> f893564... Update README.md
-●組立要領は記事を参考にしてください(2021/02/20現在、記事作成中。少々お待ちを)。
+
+●組立要領は[fabcroos](https://fabcross.jp/category/make/mobility/20210312_iot_device.html)記事を参考にしてください。
 
 ## Authors
 [Ryota Kobayashi](https://protopedia.net/prototyper/ryotakobayashi)
