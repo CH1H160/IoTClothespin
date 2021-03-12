@@ -38,9 +38,6 @@
 
 ![AmbientLib](https://user-images.githubusercontent.com/30834673/108611917-c5244580-7426-11eb-9bf8-66e4cdbb9003.JPG)
 
-=======
-●[Ambientライブラリ](https://ambidata.io/docs/esp8266/)をインストールしてください。
-
 
 ●組立要領は[fabcross](https://fabcross.jp/category/make/mobility/20210312_iot_device.html)記事を参考にしてください。
 
