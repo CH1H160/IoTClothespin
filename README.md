@@ -8,8 +8,6 @@
 
 ●Ambientへ乾燥度合を定期送信し、洗濯物の乾き具合を観察することができます。
 
-<iframe src="https://myhub.autodesk360.com/ue289b128/shares/public/SH35dfcQT936092f0e4362d94306128fef9b?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 ## Usage
 ●必要な部品は以下の通りです。
 
